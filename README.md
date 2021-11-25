@@ -1,5 +1,5 @@
 # Acer 5235 BIOS
-This is Acer Extensa 5235 (and variants) BIOS update package version v3311
+Acer Extensa 5235 (and variants) BIOS update package version v3311
 
 ## Included Files
 - ZK63311W.exe
