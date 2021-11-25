@@ -4,10 +4,10 @@ This is Acer Extensa 5235 (and variants) BIOS update package version v3311
 ## Included Files
 - ZK63311W.exe
 
-Folder "DOS"
+**Folder "DOS"**
 - ZK63311.exe
 
-Folder "ROM"
+**Folder "ROM"**
 - ZK6_3311.BIN
 - ZK6_3311.WPH
 
